@@ -1,6 +1,6 @@
 #### About Me
 
-Feel Free to reach out to me for PowerShell Automation Inquiries.
+Feel Free to reach out to me for PowerShell Automation Inquiries 🤖
 
 ---
 
@@ -19,8 +19,9 @@ Feel Free to reach out to me for PowerShell Automation Inquiries.
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/lucidchart_94941.png" title="LucidChart " alt="LucidChart " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </div>
