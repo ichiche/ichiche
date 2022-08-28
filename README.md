@@ -4,15 +4,13 @@ Feel Free to reach out to me for PowerShell Automation Inquiries 🤖
 
 ---
 
-#### My Stats
+#### Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ichiche&theme=sea&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
-#### Languages and Tools
+#### Skills and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -29,3 +27,9 @@ Feel Free to reach out to me for PowerShell Automation Inquiries 🤖
   <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/lucidchart_94941.png" title="LucidChart " alt="LucidChart " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+#### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
