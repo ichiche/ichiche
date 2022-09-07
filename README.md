@@ -2,8 +2,6 @@
 
 Feel Free to reach out to me for PowerShell Automation Inquiries 🤖
 
----
-
 #### Skills and Tools
 
 <div>
@@ -22,8 +20,10 @@ Feel Free to reach out to me for PowerShell Automation Inquiries 🤖
   <img src="https://github.com/ichiche/ichiche/blob/main/Image/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </div>
 
----
-
 #### Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ichiche&theme=sea&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ichiche)
+
+#### Profile Visits
+
+![](https://komarev.com/ghpvc/?username=ichiche)
