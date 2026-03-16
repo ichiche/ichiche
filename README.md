@@ -1,6 +1,6 @@
 #### About Me
 
-Feel Free to reach out to me for PowerShell Automation Inquiries 🤖
+Live and work with Active, Proactive, and Reactive skill sets.
 
 #### Skills and Tools
 
