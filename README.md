@@ -49,10 +49,6 @@ Most of my time goes into building with **.NET / C#** and running it on **Azure*
 
 Email is the fastest way to reach me.
 
-## Profile Visits
-
-<img src="https://komarev.com/ghpvc/?username=ichiche&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile views" />
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6F42C1,100:1F6FEB&section=footer" alt="" width="100%" />
