@@ -22,7 +22,7 @@ Live and work with **Active**, **Proactive**, and **Reactive** skill sets.
 
 I build with AI agents inside written contracts rather than ad-hoc prompts.
 
-- **Contract first** — each repository states its invariants in `AGENTS.md`: one owner per behaviour, fail-closed boundaries, validation order, and what an agent may not do.
+- **Contract first** — each repository keeps its invariants as written rules: one owner per behaviour, fail-closed boundaries, validation order, and what an agent may not do.
 - **One change per commit** — work is split at a single behaviour or document boundary, so history stays reviewable and revertible.
 - **Evidence over claims** — tests, type checks, and production verification decide whether a change ships.
 - **Human at the boundary** — agents may implement and validate; commit, push, and deploy stay with me.
