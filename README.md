@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,55:1F6FEB,100:6F42C1&text=Isaac%20Cheng&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn" alt="Isaac Cheng" width="100%" />
 
 <a href="https://github.com/ichiche">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=780&height=60&lines=Cloud+%26+Platform+Engineer;AI+Builder;Azure+%7C+AWS+%7C+Python+%7C+TypeScript+%7C+PowerShell" alt="Cloud &amp; Platform Engineer | AI Builder | Azure | AWS | Python | TypeScript | PowerShell" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=Cloud+%26+Platform+Engineer;Active+%7C+Proactive+%7C+Reactive" alt="Cloud &amp; Platform Engineer | Active | Proactive | Reactive" />
 </a>
 
 </div>
