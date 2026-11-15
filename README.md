@@ -10,8 +10,6 @@
 
 ## About Me
 
-**Cloud & Platform Engineer** and **AI builder**. I keep platforms running on **Azure** and **AWS**, and I build the automation and products on top of them in **Python**, **TypeScript**, and **PowerShell**.
-
 Live and work with **Active**, **Proactive**, and **Reactive** skill sets.
 
 - **Active** — look for the problem before it is assigned.
@@ -39,11 +37,11 @@ I build with AI agents inside written contracts rather than ad-hoc prompts.
 
 | Area | Tools |
 |---|---|
-| Cloud | Azure · AWS — Lambda, DynamoDB, S3, CloudFront, Amplify, EventBridge, Bedrock, Route 53 |
+| Cloud | Azure · AWS |
 | Languages | Python · TypeScript · PowerShell |
 | Front end | React · Next.js · Tailwind CSS |
-| AI | Amazon Bedrock · prompt and agent design · live evaluation |
-| Quality | pytest · Playwright · property-based tests · CI gates |
+| AI | Amazon Bedrock · Microsoft Foundry · DeepSeek |
+| Quality | pytest · Hypothesis · Playwright · GitHub Actions CI |
 
 ## Connect
 
